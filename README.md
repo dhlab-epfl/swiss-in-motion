@@ -20,7 +20,7 @@ The used data are coming from the _Swiss Federal Statistical Office_ and are the
 
 # Copyright and License
 
-** swiss-in-motion ** - Nils Hamel <br />
+**swiss-in-motion** - Nils Hamel <br />
 Copyright (c) 2019-2020 DHLAB, EPFL <br />
 Copyright (c) 2020 Republic and Canton of Geneva <br />
 Copyright (c) 2020 Centre Universitaire d’Informatique (CUI), University of Geneva
